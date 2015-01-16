@@ -1,0 +1,19 @@
+{
+  "name": "randu",
+  "version": "0.0.1",
+  "description": "A simple randomization utility built around Mersenne Twister Pseudo-Random Number Generator",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rogermadjos/randu.git"
+  },
+  "scripts": {
+    "test": "mocha -b"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
