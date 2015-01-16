@@ -7,9 +7,6 @@
     "type": "git",
     "url": "git@github.com:rogermadjos/randu.git"
   },
-  "scripts": {
-    "test": "mocha -b"
-  },
   "devDependencies": {
     "chai": "^1.10.0"
   },
