@@ -8,7 +8,7 @@
 ## How to install
 
 ```
-npm install node-mutex
+npm install randu
 ```
 
 ## API
@@ -57,7 +57,7 @@ Generates a random integer in the range `[min, max)`.
 ```
 randu.randString(len, charset);
 ```
-Generates a random string with the length `len`. The result contains only the characters found in `charset`. The default value of `charset` is 
+Generates a random string with the length `len`. The result contains only the characters found in `charset`. The default value of `charset` is
 `ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789`
 
 

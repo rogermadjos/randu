@@ -1,8 +1,8 @@
 {
-  "targets": [
-    {
-      "target_name": "mtrand",
-      "sources": [ "mtrand/mtrand.cc" ]
-    }
-  ]
+    "targets": [
+        {
+            "target_name": "mtrand",
+            "sources": [ "mtrand/mtrand.cc" ]
+        }
+    ]
 }
